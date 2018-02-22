@@ -1,3 +1,5 @@
+
+
 ![cf](http://i.imgur.com/7v5ASc8.png) Lab 43 - Azure Blob
 =====================================
 
@@ -18,6 +20,9 @@ Make sure you have the ability to
 - upload blobs
 - download blobs
 
+## References:
+- [StickerFire](https://github.com/stickerfire)
+- [Getting Started](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-dotnet-how-to-use-blobs)
 
 ## ReadMe
 A README is a module consumer's first -- and maybe only -- look into your creation. The consumer wants a module to fulfill their need, so you must explain exactly what need your module fills, and how effectively it does so.
