@@ -1,0 +1,12 @@
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\bin\Debug\netcoreapp2.0\BlobImages.deps.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\bin\Debug\netcoreapp2.0\BlobImages.runtimeconfig.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\bin\Debug\netcoreapp2.0\BlobImages.runtimeconfig.dev.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\bin\Debug\netcoreapp2.0\BlobImages.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\obj\Debug\netcoreapp2.0\BlobImages.csprojResolveAssemblyReference.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\obj\Debug\netcoreapp2.0\BlobImages.csproj.CoreCompileInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\obj\Debug\netcoreapp2.0\BlobImages.AssemblyInfoInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\obj\Debug\netcoreapp2.0\BlobImages.AssemblyInfo.cs
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\bin\Debug\netcoreapp2.0\BlobImages.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\obj\Debug\netcoreapp2.0\BlobImages.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\obj\Debug\netcoreapp2.0\BlobImages.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab-43---Azure-Blob\BlobImages\BlobImages\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
